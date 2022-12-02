@@ -25,7 +25,7 @@
   "scripts": {
     "test": "jest -i --verbose --detectOpenHandles",
     "test:watch": "jest --watchAll --verbose --detectOpenHandles",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
